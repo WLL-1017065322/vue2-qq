@@ -9,9 +9,7 @@
 
   ![效果图](https://github.com/lvzhenbang/vue2-demo/blob/master/static/images/%E9%A1%B9%E7%9B%AE%E6%BC%94%E7%A4%BA.gif)
 
-### 免责声明
 
-  本项目为开源项目，如有类同，纯属巧合。
 
 
 ### 项目已实现功能
